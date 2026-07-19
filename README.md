@@ -23,4 +23,4 @@ The AI Smart Traffic Management System uses Artificial Intelligence and IoT to m
 - Cloud analytics
 
 ## Team
-- Ieswariya R
+- Monica L
